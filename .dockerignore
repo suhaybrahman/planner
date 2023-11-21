@@ -1,0 +1,5 @@
+venv
+.env.prod
+.git
+.pytest_cache
+.idea
